@@ -1,0 +1,32 @@
+[
+    {
+        "title":"New Apple iPhone 12 (128GB)",
+        "imagename":"iphone12.jpg",
+        "price":"84900"
+    },
+    {
+        "title":"New Apple iPhone 11 (128GB)",
+        "imagename":"iphone11.jpg",
+        "price":"59900"
+    },
+    {
+        "title":"Apple iPhone X (256GB)",
+        "imagename":"iphone10.jpg",
+        "price":"49994"
+    },
+    {
+        "title":"Redmi Y3 (Bold Red, 4GB RAM, 64GB Storage)",
+        "imagename":"miy3.jpg",
+        "price":"11999"
+    },
+    {
+        "title":"Mi 10i 5G (Midnight Black, 6GB RAM, 128GB Storage)",
+        "imagename":"mi10i.jpg",
+        "price":"21999"
+    },
+    {
+        "title":"Apple MacBook Pro (16-inch, 16GB RAM, 512GB Storage, 2.6GHz 9th Gen Intel Core i7)",
+        "imagename":"macbookpro.jpg",
+        "price":"169990"
+    }
+]
